@@ -1,0 +1,1 @@
+Repo for Django chat app
